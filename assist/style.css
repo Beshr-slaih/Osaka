@@ -22,3 +22,12 @@ body{
 .navbar .navbar-brand:hover{
     color: var(--primaryColor);
 }
+
+.hero{
+        background-image: url(./../assist/image/bg.jpg);
+        background-size: cover;
+}
+
+.hero a{
+    color: var(--primaryColor);
+}
