@@ -52,3 +52,8 @@ body{
 .portfolio .nav-tabs{
     border-bottom: none;
 }
+
+.testimonial img{
+    width: 100px;
+    height: 100px;
+}
