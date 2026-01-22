@@ -7,6 +7,10 @@ body{
     font-family: var(--mainFont);
 }
 
+.text__primary{
+    color: var(--primaryColor);
+}
+
 .navbar-nav .nav-link{
     color:white;
 }
@@ -24,10 +28,14 @@ body{
 }
 
 .hero{
-        background-image: url(./../assist/image/bg.jpg);
+        background-image: url(./../assist/image/hero/bg.jpg);
         background-size: cover;
 }
 
 .hero a{
     color: var(--primaryColor);
+}
+
+.about{
+    background-image: url(./../assist/image/about/light_dot.jpg);
 }
